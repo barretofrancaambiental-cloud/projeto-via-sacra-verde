@@ -1,2 +1,8 @@
 # projeto-via-sacra-verde
-Repositório para estruturação, validação e documentação do modelo "Arte + Fé + Restauração", financiando a recuperação de trilhas religiosas através de leilões beneficentes e crowdfunding.
+# Sistema de Inteligência para Projetos de Impacto
+
+Este repositório organiza ideias, projetos, documentos, prompts, versões de IA, planos estratégicos e aprendizados relacionados a projetos de impacto socioambiental, ESG, turismo regenerativo, agroecologia, hospitalidade e negócios sustentáveis.
+
+## Fluxo principal
+
+Insight → Briefing → Incubação → IA → Curadoria Humana → Implementação → Impacto → Legado
